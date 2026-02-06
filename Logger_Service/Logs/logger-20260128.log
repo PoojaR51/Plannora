@@ -1,0 +1,687 @@
+2026-01-28 08:21:50.760 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 08:21:50.843 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 08:21:50.852 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 08:21:50.861 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 08:21:50.869 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 08:21:50.871 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 16.7323ms
+2026-01-28 08:21:50.872 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 08:21:50.875 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 117.9069ms
+2026-01-28 08:27:05.007 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 08:27:05.010 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 08:27:05.012 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 08:27:05.014 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 08:27:05.016 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 08:27:05.017 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 3.12ms
+2026-01-28 08:27:05.018 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 08:27:05.020 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 12.8758ms
+2026-01-28 08:33:03.526 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 08:33:03.530 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 08:33:03.531 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 08:33:03.533 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 08:33:03.536 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 08:33:03.537 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 4.6095ms
+2026-01-28 08:33:03.538 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 08:33:03.539 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 12.9051ms
+2026-01-28 08:42:12.191 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 08:42:12.196 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 08:42:12.197 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 08:42:12.199 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 08:42:12.202 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 08:42:12.203 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 4.3842ms
+2026-01-28 08:42:12.204 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 08:42:12.205 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 13.8749ms
+2026-01-28 09:30:10.495 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 09:30:10.516 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 09:30:10.526 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 09:30:10.536 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 09:30:10.545 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 09:30:10.546 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 17.7011ms
+2026-01-28 09:30:10.547 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 09:30:10.549 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 56.5931ms
+2026-01-28 09:30:10.808 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 09:30:10.812 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 09:30:10.813 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 09:30:10.815 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 09:30:10.818 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 09:30:10.819 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 4.7655ms
+2026-01-28 09:30:10.821 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 09:30:10.823 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 14.6875ms
+2026-01-28 09:36:04.805 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 09:36:04.810 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 09:36:04.812 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 09:36:04.816 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 09:36:04.818 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 09:36:04.820 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 4.9701ms
+2026-01-28 09:36:04.821 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 09:36:04.822 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 16.3754ms
+2026-01-28 09:36:05.746 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 09:36:05.750 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 09:36:05.751 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 09:36:05.804 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 09:36:05.808 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 09:36:05.810 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 55.3808ms
+2026-01-28 09:36:05.812 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 09:36:05.813 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 67.7338ms
+2026-01-28 09:36:06.316 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 09:36:06.318 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 09:36:06.319 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 09:36:06.327 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 09:36:06.329 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 09:36:06.330 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 9.912ms
+2026-01-28 09:36:06.332 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 09:36:06.342 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 25.7199ms
+2026-01-28 09:36:06.413 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 09:36:06.416 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 09:36:06.417 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 09:36:06.419 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 09:36:06.420 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 09:36:06.421 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 2.5117ms
+2026-01-28 09:36:06.422 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 09:36:06.423 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 9.9761ms
+2026-01-28 09:36:06.439 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 09:36:06.441 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 09:36:06.442 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 09:36:06.444 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 09:36:06.446 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 09:36:06.447 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 2.6623ms
+2026-01-28 09:36:06.448 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 09:36:06.448 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 9.3815ms
+2026-01-28 09:36:06.458 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 09:36:06.461 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 09:36:06.462 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 09:36:06.464 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 09:36:06.466 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 09:36:06.466 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 2.6931ms
+2026-01-28 09:36:06.467 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 09:36:06.468 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 9.6393ms
+2026-01-28 09:36:14.976 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 09:36:14.979 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 09:36:14.980 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 09:36:14.982 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 09:36:14.984 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 09:36:14.985 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 3.3432ms
+2026-01-28 09:36:14.986 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 09:36:14.987 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 11.036ms
+2026-01-28 09:36:14.997 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 09:36:15.000 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 09:36:15.001 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 09:36:15.002 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 09:36:15.004 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 09:36:15.005 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 3.0269ms
+2026-01-28 09:36:15.006 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 09:36:15.007 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 9.5285ms
+2026-01-28 09:36:15.013 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 09:36:15.015 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 09:36:15.016 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 09:36:15.017 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 09:36:15.020 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 09:36:15.020 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 3.381ms
+2026-01-28 09:36:15.021 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 09:36:15.022 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 9.3645ms
+2026-01-28 09:36:15.068 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 09:36:15.071 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 09:36:15.072 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 09:36:15.074 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 09:36:15.076 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 09:36:15.077 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 3.1203ms
+2026-01-28 09:36:15.078 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 09:36:15.078 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 10.4075ms
+2026-01-28 09:36:15.096 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 09:36:15.099 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 09:36:15.100 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 09:36:15.102 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 09:36:15.104 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 09:36:15.105 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 3.079ms
+2026-01-28 09:36:15.106 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 09:36:15.107 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 10.3586ms
+2026-01-28 09:36:15.119 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 09:36:15.121 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 09:36:15.123 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 09:36:15.126 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 09:36:15.128 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 09:36:15.129 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 4.3182ms
+2026-01-28 09:36:15.130 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 09:36:15.131 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 12.0375ms
+2026-01-28 09:40:30.474 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 09:40:30.478 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 09:40:30.480 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 09:40:30.485 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 09:40:30.488 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 09:40:30.495 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 12.9352ms
+2026-01-28 09:40:30.496 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 09:40:30.497 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 22.9015ms
+2026-01-28 09:40:30.576 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 09:40:30.581 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 09:40:30.582 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 09:40:30.586 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 09:40:30.588 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 09:40:30.590 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 4.1033ms
+2026-01-28 09:40:30.591 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 09:40:30.593 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 16.229ms
+2026-01-28 09:40:30.617 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 09:40:30.620 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 09:40:30.622 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 09:40:30.636 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 09:40:30.638 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 09:40:30.639 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 15.3326ms
+2026-01-28 09:40:30.641 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 09:40:30.642 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 24.8369ms
+2026-01-28 09:40:30.695 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 09:40:30.698 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 09:40:30.700 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 09:40:30.702 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 09:40:30.706 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 09:40:30.707 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 4.8789ms
+2026-01-28 09:40:30.708 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 09:40:30.710 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 15.3002ms
+2026-01-28 09:40:30.727 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 09:40:30.730 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 09:40:30.731 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 09:40:30.733 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 09:40:30.735 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 09:40:30.735 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 2.7258ms
+2026-01-28 09:40:30.738 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 09:40:30.739 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 12.4648ms
+2026-01-28 09:40:30.757 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 09:40:30.761 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 09:40:30.762 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 09:40:30.765 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 09:40:30.768 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 09:40:30.770 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 4.7957ms
+2026-01-28 09:40:30.772 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 09:40:30.773 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 15.9214ms
+2026-01-28 10:06:53.195 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 10:06:53.208 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:06:53.214 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 10:06:53.221 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 10:06:53.230 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 10:06:53.232 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 14.8195ms
+2026-01-28 10:06:53.234 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:06:53.237 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 41.1181ms
+2026-01-28 10:06:53.301 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 10:06:53.303 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:06:53.304 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 10:06:53.308 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 10:06:53.310 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 10:06:53.310 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 3.5641ms
+2026-01-28 10:06:53.311 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:06:53.312 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 11.4907ms
+2026-01-28 10:06:53.324 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 10:06:53.326 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:06:53.327 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 10:06:53.329 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 10:06:53.330 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 10:06:53.331 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 2.2533ms
+2026-01-28 10:06:53.332 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:06:53.333 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 9.1569ms
+2026-01-28 10:06:53.403 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 10:06:53.407 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:06:53.407 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 10:06:53.409 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 10:06:53.411 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 10:06:53.412 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 2.9852ms
+2026-01-28 10:06:53.413 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:06:53.414 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 10.3283ms
+2026-01-28 10:06:53.434 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 10:06:53.436 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:06:53.437 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 10:06:53.439 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 10:06:53.441 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 10:06:53.442 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 2.7574ms
+2026-01-28 10:06:53.443 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:06:53.445 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 10.3972ms
+2026-01-28 10:06:53.467 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 10:06:53.470 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:06:53.471 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 10:06:53.474 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 10:06:53.476 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 10:06:53.477 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 3.7344ms
+2026-01-28 10:06:53.479 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:06:53.480 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 12.3751ms
+2026-01-28 10:06:55.668 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 10:06:55.671 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:06:55.672 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 10:06:55.674 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 10:06:55.676 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 10:06:55.680 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 6.8329ms
+2026-01-28 10:06:55.682 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:06:55.687 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 19.2945ms
+2026-01-28 10:06:55.702 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 10:06:55.705 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:06:55.706 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 10:06:55.708 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 10:06:55.711 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 10:06:55.711 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 3.6164ms
+2026-01-28 10:06:55.712 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:06:55.713 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 10.9459ms
+2026-01-28 10:06:56.585 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 10:06:56.589 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:06:56.590 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 10:06:56.591 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 10:06:56.592 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 10:06:56.593 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 2.2596ms
+2026-01-28 10:06:56.594 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:06:56.595 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 9.5314ms
+2026-01-28 10:06:56.646 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 10:06:56.649 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:06:56.650 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 10:06:56.652 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 10:06:56.653 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 10:06:56.654 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 2.4082ms
+2026-01-28 10:06:56.655 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:06:56.656 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 9.5463ms
+2026-01-28 10:06:56.682 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 10:06:56.685 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:06:56.685 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 10:06:56.687 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 10:06:56.689 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 10:06:56.689 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 2.4014ms
+2026-01-28 10:06:56.690 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:06:56.691 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 8.8149ms
+2026-01-28 10:06:56.714 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 10:06:56.717 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:06:56.718 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 10:06:56.720 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 10:06:56.722 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 10:06:56.722 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 2.8879ms
+2026-01-28 10:06:56.723 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:06:56.724 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 10.526ms
+2026-01-28 10:08:06.612 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 10:08:06.614 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:08:06.615 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 10:08:06.616 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 10:08:06.618 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 10:08:06.619 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 2.9897ms
+2026-01-28 10:08:06.620 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:08:06.621 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 9.494ms
+2026-01-28 10:08:06.638 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 10:08:06.640 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:08:06.641 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 10:08:06.642 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 10:08:06.643 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 10:08:06.644 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 2.2464ms
+2026-01-28 10:08:06.645 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:08:06.646 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 8.2444ms
+2026-01-28 10:08:06.653 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 10:08:06.655 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:08:06.656 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 10:08:06.657 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 10:08:06.659 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 10:08:06.659 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 2.2271ms
+2026-01-28 10:08:06.660 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:08:06.661 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 7.6018ms
+2026-01-28 10:08:06.696 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 10:08:06.701 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:08:06.702 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 10:08:06.703 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 10:08:06.705 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 10:08:06.705 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 2.2457ms
+2026-01-28 10:08:06.706 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:08:06.707 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 10.9564ms
+2026-01-28 10:08:06.728 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 10:08:06.731 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:08:06.732 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 10:08:06.734 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 10:08:06.735 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 10:08:06.736 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 2.5577ms
+2026-01-28 10:08:06.737 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:08:06.738 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 9.9526ms
+2026-01-28 10:08:06.759 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 10:08:06.763 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:08:06.763 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 10:08:06.765 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 10:08:06.767 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 10:08:06.768 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 2.729ms
+2026-01-28 10:08:06.769 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:08:06.770 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 10.6411ms
+2026-01-28 10:08:12.685 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 10:08:12.689 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:08:12.690 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 10:08:12.719 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 10:08:12.721 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 10:08:12.722 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 29.7502ms
+2026-01-28 10:08:12.723 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:08:12.724 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 39.6595ms
+2026-01-28 10:08:12.770 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 10:08:12.773 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:08:12.775 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 10:08:12.780 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 10:08:12.783 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 10:08:12.784 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 7.5332ms
+2026-01-28 10:08:12.785 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:08:12.785 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 14.8703ms
+2026-01-28 10:10:09.505 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 10:10:09.509 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:10:09.510 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 10:10:09.513 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 10:10:09.516 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 10:10:09.517 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 4.6488ms
+2026-01-28 10:10:09.518 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:10:09.519 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 14.1724ms
+2026-01-28 10:10:09.564 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 10:10:09.568 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:10:09.569 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 10:10:09.572 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 10:10:09.573 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 10:10:09.574 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 2.5517ms
+2026-01-28 10:10:09.575 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:10:09.576 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 12.0224ms
+2026-01-28 10:14:10.318 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 10:14:10.321 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:14:10.323 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 10:14:10.325 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 10:14:10.328 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 10:14:10.330 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 5.052ms
+2026-01-28 10:14:10.332 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:14:10.333 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 14.7858ms
+2026-01-28 10:14:10.364 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 10:14:10.368 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:14:10.370 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 10:14:10.372 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 10:14:10.374 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 10:14:10.376 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 3.9913ms
+2026-01-28 10:14:10.377 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:14:10.378 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 14.7821ms
+2026-01-28 10:19:21.601 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 10:19:21.605 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:19:21.606 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 10:19:21.608 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 10:19:21.610 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 10:19:21.612 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 3.9915ms
+2026-01-28 10:19:21.613 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:19:21.614 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 12.7592ms
+2026-01-28 10:19:34.315 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 10:19:34.318 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:19:34.320 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 10:19:34.321 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 10:19:34.324 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 10:19:34.325 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 3.7199ms
+2026-01-28 10:19:34.326 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:19:34.327 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 12.1791ms
+2026-01-28 10:19:34.360 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 10:19:34.363 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:19:34.365 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 10:19:34.367 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 10:19:34.369 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 10:19:34.370 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 2.3279ms
+2026-01-28 10:19:34.370 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:19:34.371 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 11.0508ms
+2026-01-28 10:19:36.342 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 10:19:36.346 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:19:36.346 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 10:19:36.348 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 10:19:36.349 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 10:19:36.350 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 2.1001ms
+2026-01-28 10:19:36.351 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:19:36.352 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 9.827ms
+2026-01-28 10:19:40.072 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 10:19:40.076 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:19:40.077 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 10:19:40.078 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 10:19:40.080 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 10:19:40.081 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 2.3731ms
+2026-01-28 10:19:40.082 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:19:40.082 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 10.0857ms
+2026-01-28 10:19:42.788 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 10:19:42.792 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:19:42.792 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 10:19:42.795 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 10:19:42.796 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 10:19:42.797 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 3.1613ms
+2026-01-28 10:19:42.798 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:19:42.799 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 11.1515ms
+2026-01-28 10:19:47.717 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 10:19:47.720 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:19:47.721 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 10:19:47.722 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 10:19:47.729 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 10:19:47.729 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 7.1252ms
+2026-01-28 10:19:47.730 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:19:47.731 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 14.3295ms
+2026-01-28 10:19:47.765 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 10:19:47.767 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:19:47.768 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 10:19:47.769 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 10:19:47.771 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 10:19:47.772 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 2.5739ms
+2026-01-28 10:19:47.773 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:19:47.774 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 8.5903ms
+2026-01-28 10:20:16.547 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 10:20:16.550 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:20:16.551 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 10:20:16.552 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 10:20:16.554 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 10:20:16.555 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 3.1177ms
+2026-01-28 10:20:16.556 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:20:16.557 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 9.8619ms
+2026-01-28 10:20:16.585 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 10:20:16.587 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:20:16.588 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 10:20:16.589 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 10:20:16.591 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 10:20:16.591 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 2.1607ms
+2026-01-28 10:20:16.592 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:20:16.593 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 8.3326ms
+2026-01-28 10:20:22.479 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 10:20:22.483 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:20:22.484 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 10:20:22.485 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 10:20:22.487 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 10:20:22.488 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 3.0618ms
+2026-01-28 10:20:22.489 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:20:22.490 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 11.0665ms
+2026-01-28 10:20:22.531 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 10:20:22.534 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:20:22.534 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 10:20:22.537 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 10:20:22.539 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 10:20:22.539 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 2.6824ms
+2026-01-28 10:20:22.540 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:20:22.541 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 9.5269ms
+2026-01-28 10:20:22.552 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 10:20:22.554 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:20:22.554 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 10:20:22.556 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 10:20:22.559 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 10:20:22.559 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 3.5577ms
+2026-01-28 10:20:22.560 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:20:22.561 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 9.5668ms
+2026-01-28 10:20:22.592 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 10:20:22.595 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:20:22.597 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 10:20:22.599 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 10:20:22.601 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 10:20:22.602 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 2.9001ms
+2026-01-28 10:20:22.603 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:20:22.604 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 11.3903ms
+2026-01-28 10:20:22.622 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 10:20:22.625 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:20:22.626 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 10:20:22.628 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 10:20:22.631 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 10:20:22.632 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 3.9303ms
+2026-01-28 10:20:22.633 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:20:22.634 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 12.0284ms
+2026-01-28 10:20:22.643 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 10:20:22.647 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:20:22.648 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 10:20:22.650 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 10:20:22.653 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 10:20:22.654 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 4.1341ms
+2026-01-28 10:20:22.655 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:20:22.656 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 12.7093ms
+2026-01-28 10:29:03.574 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 10:29:03.578 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:29:03.578 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 10:29:03.580 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 10:29:03.581 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 10:29:03.582 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 2.2033ms
+2026-01-28 10:29:03.583 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:29:03.584 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 10.0167ms
+2026-01-28 10:29:03.609 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 10:29:03.612 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:29:03.613 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 10:29:03.614 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 10:29:03.616 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 10:29:03.617 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 2.5185ms
+2026-01-28 10:29:03.619 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:29:03.620 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 10.1307ms
+2026-01-28 10:29:03.628 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 10:29:03.630 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:29:03.631 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 10:29:03.632 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 10:29:03.634 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 10:29:03.635 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 3.2894ms
+2026-01-28 10:29:03.636 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:29:03.637 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 9.3591ms
+2026-01-28 10:29:03.708 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 10:29:03.710 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:29:03.711 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 10:29:03.743 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 10:29:03.745 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 10:29:03.745 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 33.1289ms
+2026-01-28 10:29:03.746 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:29:03.747 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 39.4608ms
+2026-01-28 10:29:03.857 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 10:29:03.860 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:29:03.861 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 10:29:03.889 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 10:29:03.891 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 10:29:03.892 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 29.8397ms
+2026-01-28 10:29:03.893 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:29:03.894 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 36.721ms
+2026-01-28 10:29:03.904 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 10:29:03.906 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:29:03.907 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 10:29:03.909 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 10:29:03.911 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 10:29:03.912 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 3.3967ms
+2026-01-28 10:29:03.913 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:29:03.914 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 9.9966ms
+2026-01-28 10:29:39.494 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 10:29:39.496 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:29:39.497 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 10:29:39.498 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 10:29:39.500 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 10:29:39.501 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 2.9043ms
+2026-01-28 10:29:39.502 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:29:39.502 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 8.7452ms
+2026-01-28 10:29:39.527 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 10:29:39.530 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:29:39.530 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 10:29:39.532 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 10:29:39.534 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 10:29:39.535 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 3.6994ms
+2026-01-28 10:29:39.537 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:29:39.538 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 10.4723ms
+2026-01-28 10:29:46.135 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 10:29:46.139 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:29:46.139 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 10:29:46.141 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 10:29:46.142 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 10:29:46.143 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 2.5935ms
+2026-01-28 10:29:46.144 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:29:46.145 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 9.9175ms
+2026-01-28 10:29:46.168 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 10:29:46.170 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:29:46.171 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 10:29:46.173 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 10:29:46.174 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 10:29:46.175 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 2.1051ms
+2026-01-28 10:29:46.175 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:29:46.176 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 8.1964ms
+2026-01-28 10:29:53.751 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 10:29:53.753 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:29:53.755 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 10:29:53.756 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 10:29:53.758 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 10:29:53.758 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 2.304ms
+2026-01-28 10:29:53.759 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:29:53.760 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 8.939ms
+2026-01-28 10:29:53.803 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 10:29:53.806 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:29:53.807 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 10:29:53.808 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 10:29:53.810 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 10:29:53.810 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 2.1089ms
+2026-01-28 10:29:53.811 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:29:53.812 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 9.2515ms
+2026-01-28 10:29:56.441 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 10:29:56.444 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:29:56.445 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 10:29:56.446 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 10:29:56.447 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 10:29:56.448 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 2.2234ms
+2026-01-28 10:29:56.449 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:29:56.450 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 9.0322ms
+2026-01-28 10:29:56.472 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 10:29:56.476 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:29:56.477 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 10:29:56.478 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 10:29:56.479 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 10:29:56.480 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 2.1659ms
+2026-01-28 10:29:56.481 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 10:29:56.482 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 9.7032ms
+2026-01-28 12:20:28.487 +05:30 [INF] Now listening on: http://localhost:5141
+2026-01-28 12:20:28.526 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2026-01-28 12:20:28.529 +05:30 [INF] Hosting environment: Development
+2026-01-28 12:20:28.530 +05:30 [INF] Content root path: W:\Plannora\user-service\Logger_Service\Logger_Service
+2026-01-28 12:21:33.543 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5141/swagger/index.html - null null
+2026-01-28 12:21:33.673 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5141/swagger/index.html - 200 null text/html;charset=utf-8 131.3853ms
+2026-01-28 12:21:33.705 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5141/swagger/swagger-ui-bundle.js - null null
+2026-01-28 12:21:33.705 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5141/swagger/swagger-ui.css - null null
+2026-01-28 12:21:33.706 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5141/swagger/swagger-ui-standalone-preset.js - null null
+2026-01-28 12:21:33.740 +05:30 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2026-01-28 12:21:33.740 +05:30 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2026-01-28 12:21:33.753 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5141/swagger/swagger-ui-standalone-preset.js - 200 312163 text/javascript 47.1618ms
+2026-01-28 12:21:33.754 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5141/swagger/swagger-ui.css - 200 144929 text/css 48.4645ms
+2026-01-28 12:21:33.754 +05:30 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2026-01-28 12:21:33.763 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5141/swagger/swagger-ui-bundle.js - 200 1061536 text/javascript 57.9474ms
+2026-01-28 12:21:33.888 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5141/swagger/v1/swagger.json - null null
+2026-01-28 12:21:33.902 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5141/swagger/favicon-32x32.png - null null
+2026-01-28 12:21:33.906 +05:30 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2026-01-28 12:21:33.908 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5141/swagger/favicon-32x32.png - 200 628 image/png 5.8852ms
+2026-01-28 12:21:33.955 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5141/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 66.8265ms
+2026-01-28 12:21:45.851 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json 8
+2026-01-28 12:21:45.860 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 12:21:45.880 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 12:21:45.899 +05:30 [INF] LOG RECEIVED: {"ValueKind":"String","$type":"JsonElement"}
+2026-01-28 12:21:45.912 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 12:21:45.917 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 30.1403ms
+2026-01-28 12:21:45.919 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 12:21:45.920 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 68.8542ms
+2026-01-28 13:11:08.754 +05:30 [INF] Now listening on: http://localhost:5141
+2026-01-28 13:11:08.782 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2026-01-28 13:11:08.783 +05:30 [INF] Hosting environment: Development
+2026-01-28 13:11:08.784 +05:30 [INF] Content root path: W:\Plannora\Logger_Service
+2026-01-28 13:11:25.291 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5141/ - null null
+2026-01-28 13:11:25.333 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5141/ - 404 0 null 44.7781ms
+2026-01-28 13:11:25.359 +05:30 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5141/, Response status code: 404
+2026-01-28 13:11:33.976 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5141/swagger/index.html - null null
+2026-01-28 13:11:34.049 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5141/swagger/index.html - 200 null text/html;charset=utf-8 72.5959ms
+2026-01-28 13:11:34.231 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5141/swagger/v1/swagger.json - null null
+2026-01-28 13:11:34.291 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5141/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 59.6513ms
+2026-01-28 13:11:37.217 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5141/swagger/index.html - null null
+2026-01-28 13:11:37.220 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5141/swagger/index.html - 200 null text/html;charset=utf-8 3.7302ms
+2026-01-28 13:11:37.274 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5141/swagger/v1/swagger.json - null null
+2026-01-28 13:11:37.279 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5141/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 5.5534ms
+2026-01-28 13:11:38.425 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5141/swagger/index.html - null null
+2026-01-28 13:11:38.427 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5141/swagger/index.html - 200 null text/html;charset=utf-8 2.2911ms
+2026-01-28 13:11:38.477 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5141/swagger/v1/swagger.json - null null
+2026-01-28 13:11:38.482 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5141/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 5.0287ms
+2026-01-28 13:11:38.644 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5141/swagger/index.html - null null
+2026-01-28 13:11:38.646 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5141/swagger/index.html - 200 null text/html;charset=utf-8 2.1869ms
+2026-01-28 13:11:38.701 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5141/swagger/v1/swagger.json - null null
+2026-01-28 13:11:38.705 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5141/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 4.5429ms
+2026-01-28 13:13:15.522 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5141/swagger/index.html - null null
+2026-01-28 13:13:15.528 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5141/swagger/index.html - 200 null text/html;charset=utf-8 6.2205ms
+2026-01-28 13:13:15.625 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5141/swagger/v1/swagger.json - null null
+2026-01-28 13:13:15.628 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5141/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 3.0558ms
+2026-01-28 13:13:59.250 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5141/api/logs - application/json null
+2026-01-28 13:13:59.265 +05:30 [INF] Executing endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 13:13:59.296 +05:30 [INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(System.Object) on controller Logger_Service.Controllers.LogsController (Logger_Service).
+2026-01-28 13:13:59.321 +05:30 [INF] LOG RECEIVED: {"ValueKind":"Object","$type":"JsonElement"}
+2026-01-28 13:13:59.333 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2026-01-28 13:13:59.337 +05:30 [INF] Executed action Logger_Service.Controllers.LogsController.CreateLog (Logger_Service) in 33.0696ms
+2026-01-28 13:13:59.338 +05:30 [INF] Executed endpoint 'Logger_Service.Controllers.LogsController.CreateLog (Logger_Service)'
+2026-01-28 13:13:59.339 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5141/api/logs - 200 0 null 88.3018ms

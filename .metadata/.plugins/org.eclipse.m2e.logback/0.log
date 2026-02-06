@@ -1,0 +1,1 @@
+2026-02-04 11:24:59,943 [Worker-12: Updating Maven Dependencies] INFO  o.e.m.c.i.p.r.ProjectRegistryRefreshJob - org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob was canceled
