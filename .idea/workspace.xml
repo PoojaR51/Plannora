@@ -4,15 +4,42 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe396943-abea-4635-a980-1635a7adb701" name="Changes" comment="" />
+    <list default="true" id="fe396943-abea-4635-a980-1635a7adb701" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/PlannoraUI/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PlannoraUI/eslint.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PlannoraUI/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PlannoraUI/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PlannoraUI/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PlannoraUI/postcss.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PlannoraUI/public/vite.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PlannoraUI/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PlannoraUI/src/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PlannoraUI/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PlannoraUI/src/main.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PlannoraUI/tailwind.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PlannoraUI/vite.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PlannoraUI" beforeDir="false" afterPath="$PROJECT_DIR$/PlannoraUI" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PlannoraUI/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/PlannoraUI/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PlannoraUI/user-service/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PlannoraUI/user-service/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PlannoraUI/user-service/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PlannoraUI/user-service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PlannoraUI/user-service/src/main/java/com/auctionhive/user_service/UserServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PlannoraUI/user-service/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PlannoraUI/user-service/src/test/java/com/auctionhive/user_service/UserServiceApplicationTests.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="38YuyMPuKqbaPALhMv2fHTDEPd4" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,8 +49,10 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
@@ -40,7 +69,6 @@
     <attachedChunks>
       <set>
         <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.240" />
-        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.29346.240" />
       </set>
     </attachedChunks>
   </component>
